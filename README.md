@@ -1,0 +1,2 @@
+# Prize-Bot
+random prize()
